@@ -1,2 +1,2 @@
 #!/bin/bash
-echo command ls -l
+echo command ls -la ..
